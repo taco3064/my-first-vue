@@ -1,1 +1,1 @@
-export { default, default as HelloWorld } from './Component.vue'
+export { default, default as HelloWorld } from './Component.vue';

@@ -1,8 +1,8 @@
-import Community from "./Community.vue";
-import Documentation from "./Documentation.vue";
-import Ecosystem from "./Ecosystem.vue";
-import Support from "./Support.vue";
-import Tooling from "./Tooling.vue";
+import Community from './Community.vue';
+import Documentation from './Documentation.vue';
+import Ecosystem from './Ecosystem.vue';
+import Support from './Support.vue';
+import Tooling from './Tooling.vue';
 
 export default {
   Community,
@@ -10,4 +10,4 @@ export default {
   Ecosystem,
   Support,
   Tooling,
-}
+};
